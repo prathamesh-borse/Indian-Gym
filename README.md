@@ -1,8 +1,20 @@
-# Indian-Gym
+<h1 align="center">
+Indian-Gym
+</h1>
 
-This is a Simple Indian Gym Website Template Created by using the HTML, CSS, and Using the Animations.
+<p align="center">
+  Coding is Fun! Do it everyday 💯💯
+  <br />
+  This is a Simple Indian Gym Website Template Created by using the HTML, CSS, and Using the Animations.
+  <br />
+  Contribute to this repo and submit a PR
+</p>
 
-## Screenshot
+*** 
+
+[![HitCount](http://hits.dwyl.com/viraldevpb/IndianGym.svg)](http://hits.dwyl.com/viraldevpb/IndianGym) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/viraldevpb/Indian.Gym/)  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://viraldevpb.github.io/Portfolio/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://viraldevpb.github.io/Portfolio/) ![GitHub all releases](https://img.shields.io/github/downloads/viraldevpb/Indian.Gym/total?logo=Github) ![GitHub forks](https://img.shields.io/github/forks/viraldevpb/Indian.Gym?style=social)
+
+## Screenshots
 
 <img src="https://user-images.githubusercontent.com/66899360/103438113-6546c500-4c55-11eb-8606-901a88d997ea.jpg" data-canonical-src="https://user-images.githubusercontent.com/66899360/103438113-6546c500-4c55-11eb-8606-901a88d997ea.jpg" width="500" />
 

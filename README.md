@@ -12,7 +12,7 @@ Indian-Gym
 
 *** 
 
-[![HitCount](http://hits.dwyl.com/viraldevpb/IndianGym.svg)](http://hits.dwyl.com/viraldevpb/IndianGym) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/viraldevpb/Indian.Gym/)  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://viraldevpb.github.io/Portfolio/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://viraldevpb.github.io/Portfolio/) ![GitHub all releases](https://img.shields.io/github/downloads/viraldevpb/Indian.Gym/total?logo=Github) ![GitHub forks](https://img.shields.io/github/forks/viraldevpb/Indian.Gym?style=social)
+[![HitCount](http://hits.dwyl.com/viraldevpb/IndianGym.svg)](http://hits.dwyl.com/viraldevpb/IndianGym) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/viraldevpb/Indian.Gym/)  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://viraldevpb.github.io/Portfolio/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://viraldevpb.github.io/Portfolio/) ![GitHub all releases](https://img.shields.io/github/downloads/viraldevpb/Indian.Gym/total?logo=Github) ![GitHub last commit](https://img.shields.io/github/last-commit/viraldevpb/Indian.Gym) ![GitHub forks](https://img.shields.io/github/forks/viraldevpb/Indian.Gym?style=social)
 
 ## Screenshots
 
